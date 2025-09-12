@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>parvathik997@gmail.com</contactEmail>
+    <contactPhone>09496693647</contactPhone>
+    <label>DevOps App</label>
+    <oauthConfig>
+        <callbackUrl>http://localhost:1717/OauthRedirect</callbackUrl>
+        <certificate>MIICpDCCAYwCCQCyhyoXQU2OqTANBgkqhkiG9w0BAQsFADAUMRIwEAYDVQQDDAlKZW5raW5zQ0kwHhcNMjUwOTEwMTQxMTM1WhcNMzUwOTA4MTQxMTM1WjAUMRIwEAYDVQQDDAlKZW5raW5zQ0kwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC9BzP0xGNErT2KUXx5nrft6g1p1Buh5AJyLy4nF9Cii+PKHMemStEHxEwJn3O8vuUpzBYf8h1ARaXxPRXkMkNZnou3dJvBgrXdogZHdFbA8cpUBqqQxswwdgvyY9qFfGcAV2hifRbATGnn0obYvO0AAvICoFYVcFPmwcdO2tbDE7ZiXkdoAYU56WqxV7RBsQMVzyA+ZQ0HzYn/ZHv065oVMtiINLnOY1O7zIhMb5Bu8AAfmDu+1Nsaztri1ELACstb6BWAHnG3qL+sTUQNW9ilHstAzAb6oOKjmCFP9NQ0NbkbD97CyfGVknx0snuC4W06mdpyiMqycq5VvMWN8j9DAgMBAAEwDQYJKoZIhvcNAQELBQADggEBAE88VmsM2HcepT7tqHynVWnh4UWwh+E/OfMNaH6paDWdbyfBdKcCSS0SneEZPbOe3vl0sr+l+9OQ3BRhtN5vvINbnkIsQF+IcFKpsaa8F09BErmkGeNiU+BPKzJEtuk23tt/+7f314YrJDngzpztN3SDlh2R1lCn81NvFesl6LS4uc9dAsFixf2JXPV7+gVXfZdQPjV3EnSorUqYEU3NneigCK/4UnvgwITDURKjfkI2Sm0Ll+e/XlEXwGQX2hBZfwu0942eFA6DDtlQ6jCWPATzKMbh4IwtEJ8Q9k8YZK41HNBAM6zXI6RZgMBLh8D7YCYkOFmEGpHDUhsN/0pgRu0=</certificate>
+        <consumerKey>3MVG9WVXk15qiz1Kf49cN8BOZRiKoS6x1L29sLSOBUIwDfsN4RMs67BD4r5R4wi7R2GLKFwiejWbJZBj23d.O</consumerKey>
+        <isAdminApproved>true</isAdminApproved>
+        <isClientCredentialEnabled>false</isClientCredentialEnabled>
+        <isCodeCredentialEnabled>false</isCodeCredentialEnabled>
+        <isCodeCredentialPostOnly>false</isCodeCredentialPostOnly>
+        <isConsumerSecretOptional>false</isConsumerSecretOptional>
+        <isIntrospectAllTokens>false</isIntrospectAllTokens>
+        <isNamedUserJwtEnabled>false</isNamedUserJwtEnabled>
+        <isPkceRequired>true</isPkceRequired>
+        <isRefreshTokenRotationEnabled>false</isRefreshTokenRotationEnabled>
+        <isSecretRequiredForRefreshToken>true</isSecretRequiredForRefreshToken>
+        <isSecretRequiredForTokenExchange>false</isSecretRequiredForTokenExchange>
+        <isTokenExchangeEnabled>false</isTokenExchangeEnabled>
+        <scopes>Full</scopes>
+    </oauthConfig>
+    <oauthPolicy>
+        <ipRelaxation>ENFORCE</ipRelaxation>
+        <isTokenExchangeFlowEnabled>false</isTokenExchangeFlowEnabled>
+        <refreshTokenPolicy>zero</refreshTokenPolicy>
+    </oauthPolicy>
+    <profileName>System Administrator</profileName>
+</ConnectedApp>
