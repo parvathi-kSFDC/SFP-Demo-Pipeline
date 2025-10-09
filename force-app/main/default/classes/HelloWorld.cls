@@ -1,5 +1,5 @@
 public with sharing class HelloWorld {
     public static String sayHello() {
-        return 'Hello from Copado test!';
+        return 'Hello1 from Copado test!';
     }
 }
